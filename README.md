@@ -1,4 +1,5 @@
 ReactJS CRUD App from Plurasight
+I plan to use this code to add to ClutchWeb.
 
 # Starter Kit for [Building Applications in React and Redux](http://www.pluralsight.com/author/cory-house) on Pluralsight
 
